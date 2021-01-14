@@ -1,0 +1,12 @@
+Open memory card
+Repeat until end of card:
+  Read 512 bytes into a buffer
+   If start of new HPEG
+    If first JPEG
+          ...
+         Else
+          ...
+      Else
+        If already found JPEG
+          ...
+ Close any remaining files
